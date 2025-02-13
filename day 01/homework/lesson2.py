@@ -1,6 +1,6 @@
 name="demetre"
-surname="maisuradze"
-height=182
-age=14
+surname=" and his surname is maisuradze"
+height="is 182 cm"
+age="and his age is 14"
 knows_programming=True
-print(name +" " + str(height) +" " + surname +" "+ str(age) +" "+ str(knows_programming))
+print(name +" "+str(height)+" " +str(surname) +" "+ str(age))
