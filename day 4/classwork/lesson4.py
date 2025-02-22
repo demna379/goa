@@ -1,5 +1,5 @@
-number = 3 # - გამოყენება არ შეიძლება ამის მაგივრად უნდა დავწეროთ =
-number=2 # ციფრის დაწერა წინ არის შეცდომა
-word="goa" # ბრჩყალებში უნდა ჩავსვათ
-world_population= 8000000000 # გამოტოვება არ შეიძლება 
-
+print(hello #brchyalebi da brchxilebi unda mivuwerot ase print("hello")
+name = deme #ama brchyalebi ar aqvs da ase unda dagvewera name="deme"
+surname - "maisuradze" #aq equal sign unda davwerot ase surname=maisuradze
+print("maisuradze" #aq brchxilebshi unda chavsvat ase print("maisuradze")
+print(hi) #aq brcyalebshi unda chavsvat
